@@ -1,0 +1,10 @@
+C:\Users\anacl\source\repos\ConsoleApp1\Componentes\bin\Debug\netcoreapp3.1\Componentes.deps.json
+C:\Users\anacl\source\repos\ConsoleApp1\Componentes\bin\Debug\netcoreapp3.1\Componentes.dll
+C:\Users\anacl\source\repos\ConsoleApp1\Componentes\bin\Debug\netcoreapp3.1\Componentes.pdb
+C:\Users\anacl\source\repos\ConsoleApp1\Componentes\obj\Debug\netcoreapp3.1\Componentes.csproj.AssemblyReference.cache
+C:\Users\anacl\source\repos\ConsoleApp1\Componentes\obj\Debug\netcoreapp3.1\Componentes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anacl\source\repos\ConsoleApp1\Componentes\obj\Debug\netcoreapp3.1\Componentes.AssemblyInfoInputs.cache
+C:\Users\anacl\source\repos\ConsoleApp1\Componentes\obj\Debug\netcoreapp3.1\Componentes.AssemblyInfo.cs
+C:\Users\anacl\source\repos\ConsoleApp1\Componentes\obj\Debug\netcoreapp3.1\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\anacl\source\repos\ConsoleApp1\Componentes\obj\Debug\netcoreapp3.1\Componentes.dll
+C:\Users\anacl\source\repos\ConsoleApp1\Componentes\obj\Debug\netcoreapp3.1\Componentes.pdb
